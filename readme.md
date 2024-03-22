@@ -58,4 +58,4 @@ If these probe trials were successfully answered, the participant could proceed 
 Each trial lasted for a maximum of 15 seconds; if the participant did not make a choice, 
 it moved to the next one. No feedback was provided during the trials.
 
-The funding (IA204222) for this proyect was provided by the Dirección General de Asuntos del Personal Académico (DGAPA) of the Universidad Nacional Autónoma de México (UNAM).
+The funding for this project (IA204222) was provided by Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica (PAPIIT) of the Dirección General de Asuntos del Personal Académico (DGAPA) of the Universidad Nacional Autónoma de México (UNAM).
